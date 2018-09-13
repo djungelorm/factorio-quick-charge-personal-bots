@@ -1,0 +1,3 @@
+# Factorio mod to charge personal bots quickly
+
+This mod adds quick recharging for personal bots, removing the need to 'mine' your bots to collect and recharge them quickly. It increases the recharge rate of bots from 1MW to 100MW, and charges the personal robotports energy buffer from the 'aether' (it will no longer drain your solar panel/fusion reactor equipment or batteries). This could be considered cheating, as your personal bots recharge for free, however manually mining your bots when they need to charge does the same thing...

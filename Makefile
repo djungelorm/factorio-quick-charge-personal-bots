@@ -1,6 +1,6 @@
 .PHONY: all
 
-VERSION=0.1.0
+VERSION=0.1.1
 
 all:
 	rm -rf quick-charge-personal-bots_$(VERSION)
